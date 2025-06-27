@@ -19,5 +19,5 @@ This is the backend API for the Auth and Blog app built with Express and MongoDB
 1. Clone this repo:
 
    ```bash
-   git clone https://github.com/yourusername/your-backend-repo.git
-   cd your-backend-repo
+   git clone https://github.com/ibhimwhar/auth-blog-platform-server.git
+   cd auth-blog-platform-server
